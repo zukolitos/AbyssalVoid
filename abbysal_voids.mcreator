@@ -72,12 +72,21 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Voiddagger",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.voiddagger.name": "Voiddagger",
       "tile.astralvoidgrass.name": "Abyssal Grass",
       "tile.leaves.name": "Leaves",
       "tile.astrallog.name": "Astral Log",
