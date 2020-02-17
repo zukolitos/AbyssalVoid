@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "crystal",
+    "texture": "voidcrystalitem",
     "customModelName": "Normal",
     "name": "Void Crystal",
     "creativeTab": {
