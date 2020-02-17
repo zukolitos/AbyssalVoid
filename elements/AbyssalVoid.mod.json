@@ -1,0 +1,11 @@
+{
+  "_fv": 5,
+  "_type": "tab",
+  "definition": {
+    "name": "Abyssal Void",
+    "icon": {
+      "value": "Items.END_CRYSTAL"
+    },
+    "showSearch": true
+  }
+}

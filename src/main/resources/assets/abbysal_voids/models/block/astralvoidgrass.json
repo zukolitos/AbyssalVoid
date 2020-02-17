@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abbysal_voids:blocks/abyssaldirt",
+    "up": "abbysal_voids:blocks/voidgrass",
+    "north": "abbysal_voids:blocks/voidgrassside",
+    "east": "abbysal_voids:blocks/voidgrassside",
+    "south": "abbysal_voids:blocks/voidgrassside",
+    "west": "abbysal_voids:blocks/voidgrassside",
+    "particle": "abbysal_voids:blocks/abyssaldirt"
+  }
+}

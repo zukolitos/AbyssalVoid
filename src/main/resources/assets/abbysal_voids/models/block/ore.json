@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "abbysal_voids:blocks/void_ore",
+    "particle": "abbysal_voids:blocks/void_ore"
+  }
+}

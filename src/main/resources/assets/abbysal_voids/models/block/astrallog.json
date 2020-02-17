@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abbysal_voids:blocks/voidloginside",
+    "up": "abbysal_voids:blocks/voidloginside",
+    "north": "abbysal_voids:blocks/voidlog",
+    "east": "abbysal_voids:blocks/voidlog",
+    "south": "abbysal_voids:blocks/voidlog",
+    "west": "abbysal_voids:blocks/voidlog",
+    "particle": "abbysal_voids:blocks/voidloginside"
+  }
+}

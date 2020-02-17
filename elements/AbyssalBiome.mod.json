@@ -1,0 +1,66 @@
+{
+  "_fv": 5,
+  "_type": "biome",
+  "definition": {
+    "name": "Astral Forest",
+    "groundBlock": {
+      "value": "CUSTOM:AstralVoidGrass"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "generateLakes": true,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeStem": {
+      "value": "CUSTOM:AstralLog"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:Leaves"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -8826185,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -12779397,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -11816747,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 5,
+    "grassPerChunk": 4,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": true,
+    "biomeWeight": 6,
+    "biomeType": "WARM",
+    "biomeCategory": "FOREST",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [],
+    "spawnList": []
+  }
+}
